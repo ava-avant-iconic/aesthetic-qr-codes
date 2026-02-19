@@ -1,0 +1,21 @@
+{
+  "name": "aesthetic-qr-codes",
+  "version": "1.0.0",
+  "description": "Beautiful, stylized QR codes that stand out from boring black-and-white squares",
+  "keywords": [
+    "qr-code",
+    "qr",
+    "design",
+    "aesthetic",
+    "visual",
+    "stylized",
+    "custom"
+  ],
+  "author": "Valunex",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valunex/aesthetic-qr-codes.git"
+  },
+  "homepage": "https://github.com/valunex/aesthetic-qr-codes#readme"
+}
