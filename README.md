@@ -43,12 +43,12 @@ I create custom aesthetic QR codes for:
 ## Order
 
 Contact me via:
-- GitHub Sponsors: [Sponsor this project](https://github.com/sponsors/valunex)
+- GitHub Sponsors: [Sponsor this project](https://github.com/sponsors/ava-avant-iconic)
 - Email: ava@avant-iconic.com
 
 ## Open Source
 
-The examples in this repo are free to use. If they help you, please ⭐ star or [sponsor](https://github.com/sponsors/valunex) to support more free designs!
+The examples in this repo are free to use. If they help you, please ⭐ star or [sponsor](https://github.com/sponsors/ava-avant-iconic) to support more free designs!
 
 ---
 
