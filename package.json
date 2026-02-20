@@ -17,5 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/valunex/aesthetic-qr-codes.git"
   },
-  "homepage": "https://github.com/valunex/aesthetic-qr-codes#readme"
+  "homepage": "https://github.com/valunex/aesthetic-qr-codes#readme",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.34.5"
+  }
 }
