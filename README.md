@@ -4,17 +4,32 @@ Beautiful, stylized QR codes that stand out from boring black-and-white squares.
 
 ## Examples
 
-### 🎨 Gradient Wave QR
-![gradient-wave](examples/gradient-wave.png)
+### 🎨 Artistic Neon QR
+![artistic-neon](examples/artistic-neon.png)
 
-### 🌌 Neon Pulse QR
-![neon-pulse](examples/neon-pulse.png)
+### 🌌 Crypto Purple QR
+![crypto-purple](examples/crypto-purple.png)
 
-### 💎 Crystal Mesh QR
-![crystal-mesh](examples/crystal-mesh.png)
+### 💎 Gold Luxury QR
+![gold-luxury](examples/gold-luxury.png)
 
-### 🌿 Organic Flow QR
-![organic-flow](examples/organic-flow.png)
+### 🌿 Forest Green QR
+![forest-green](examples/forest-green.png)
+
+### 🌊 Ocean Blue QR
+![ocean-blue](examples/ocean-blue.png)
+
+### 🌅 Sunset Orange QR
+![sunset-orange](examples/sunset-orange.png)
+
+### 💜 Neon Pink QR
+![neon-pink](examples/neon-pink.png)
+
+### 🖤 Dark Mode QR
+![dark-mode](examples/dark-mode.png)
+
+### 📦 Classic Black QR
+![classic-black](examples/classic-black.png)
 
 ## Why Aesthetic QR Codes?
 
@@ -23,33 +38,37 @@ Beautiful, stylized QR codes that stand out from boring black-and-white squares.
 - **Print-ready** - high-res output for business cards, flyers, packaging
 - **Custom shapes** - rounded corners, dot patterns, embedded logos
 
-## Custom QR Code Services
+## Use Cases
 
-I create custom aesthetic QR codes for:
+Aesthetic QR codes are perfect for:
 - ✨ Business cards and branding
 - 🏪 Retail and product packaging
 - 🎟️ Event tickets and flyers
 - 📱 App downloads and websites
 - 💰 Wallet addresses (crypto payment links)
+- 📧 Contact cards (vCard)
+- 🎁 Gift cards and promotions
 
-## Pricing
+## Usage
 
-- **Single QR**: €15
-- **3-pack**: €40
-- **Bulk (10+)**: €10 each
+All example QR codes in this repo are free to use in your projects. Simply download the PNG files from the `examples/` directory.
 
-**Includes**: 3 design variations, high-res PNG + SVG, 24h turnaround
+For custom aesthetic QR codes tailored to your brand:
+- Use the QR code examples as inspiration
+- Modify colors and styles to match your brand
+- Contact [AVA](mailto:ava@avant-iconic.com) for custom work
 
-## Order
+## Support
 
-Contact me via:
-- GitHub Sponsors: [Sponsor this project](https://github.com/sponsors/ava-avant-iconic)
-- Email: ava@avant-iconic.com
+If these designs help you, please:
+- ⭐ Star this repository
+- [Sponsor this project](https://github.com/sponsors/ava-avant-iconic) to support more free designs
+- Follow [AVA on GitHub](https://github.com/ava-avant-iconic)
 
-## Open Source
+## License
 
-The examples in this repo are free to use. If they help you, please ⭐ star or [sponsor](https://github.com/sponsors/ava-avant-iconic) to support more free designs!
+MIT License - Free to use, modify, and distribute.
 
 ---
 
-Made with ❤️ by [Valunex](https://github.com/valunex)
+Made with ❤️ by [AVA](https://github.com/ava-avant-iconic)
